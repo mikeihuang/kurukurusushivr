@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 751cfe7ba4658bc4fb2ea74f2ba56924
+timeCreated: 1498089692
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BottomCircle
+    100002: BottomCircle1
+    100004: BottomCircle2
+    100006: CINEMA_4D_Editor
+    100008: //RootNode
+    100010: InnerGate
+    100012: InnerGate1
+    100014: InnerGate2
+    100016: OuterGate
+    100018: OuterGate1
+    100020: OuterGate2
+    100022: WaterSurface
+    100024: WaterSurface1
+    100026: WaterSurface2
+    400000: BottomCircle
+    400002: BottomCircle1
+    400004: BottomCircle2
+    400006: CINEMA_4D_Editor
+    400008: //RootNode
+    400010: InnerGate
+    400012: InnerGate1
+    400014: InnerGate2
+    400016: OuterGate
+    400018: OuterGate1
+    400020: OuterGate2
+    400022: WaterSurface
+    400024: WaterSurface1
+    400026: WaterSurface2
+    2300000: BottomCircle
+    2300002: BottomCircle1
+    2300004: BottomCircle2
+    2300006: InnerGate
+    2300008: InnerGate1
+    2300010: InnerGate2
+    2300012: OuterGate
+    2300014: OuterGate1
+    2300016: OuterGate2
+    2300018: WaterSurface
+    2300020: WaterSurface1
+    2300022: WaterSurface2
+    3300000: BottomCircle
+    3300002: BottomCircle1
+    3300004: BottomCircle2
+    3300006: InnerGate
+    3300008: InnerGate1
+    3300010: InnerGate2
+    3300012: OuterGate
+    3300014: OuterGate1
+    3300016: OuterGate2
+    3300018: WaterSurface
+    3300020: WaterSurface1
+    3300022: WaterSurface2
+    4300000: WaterSurface2
+    4300002: WaterSurface1
+    4300004: WaterSurface
+    4300006: InnerGate2
+    4300008: InnerGate1
+    4300010: InnerGate
+    4300012: OuterGate2
+    4300014: OuterGate1
+    4300016: OuterGate
+    4300018: BottomCircle2
+    4300020: BottomCircle1
+    4300022: BottomCircle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

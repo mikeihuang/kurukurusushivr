@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: f3a29b472dda3418cad1154a8001d661
+timeCreated: 1497230654
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: //RootNode
+    100004: Nori
+    100006: Rice
+    100008: Roe
+    100010: Roe_0
+    100012: Roe_1
+    100014: Roe_10
+    100016: Roe_11
+    100018: Roe_12
+    100020: Roe_13
+    100022: Roe_14
+    100024: Roe_2
+    100026: Roe_3
+    100028: Roe_4
+    100030: Roe_5
+    100032: Roe_6
+    100034: Roe_7
+    100036: Roe_8
+    100038: Roe_9
+    400000: CINEMA_4D_Editor
+    400002: //RootNode
+    400004: Nori
+    400006: Rice
+    400008: Roe
+    400010: Roe_0
+    400012: Roe_1
+    400014: Roe_10
+    400016: Roe_11
+    400018: Roe_12
+    400020: Roe_13
+    400022: Roe_14
+    400024: Roe_2
+    400026: Roe_3
+    400028: Roe_4
+    400030: Roe_5
+    400032: Roe_6
+    400034: Roe_7
+    400036: Roe_8
+    400038: Roe_9
+    2300000: Nori
+    2300002: Rice
+    2300004: Roe_0
+    2300006: Roe_1
+    2300008: Roe_10
+    2300010: Roe_11
+    2300012: Roe_12
+    2300014: Roe_13
+    2300016: Roe_14
+    2300018: Roe_2
+    2300020: Roe_3
+    2300022: Roe_4
+    2300024: Roe_5
+    2300026: Roe_6
+    2300028: Roe_7
+    2300030: Roe_8
+    2300032: Roe_9
+    3300000: Nori
+    3300002: Rice
+    3300004: Roe_0
+    3300006: Roe_1
+    3300008: Roe_10
+    3300010: Roe_11
+    3300012: Roe_12
+    3300014: Roe_13
+    3300016: Roe_14
+    3300018: Roe_2
+    3300020: Roe_3
+    3300022: Roe_4
+    3300024: Roe_5
+    3300026: Roe_6
+    3300028: Roe_7
+    3300030: Roe_8
+    3300032: Roe_9
+    4300000: Roe_14
+    4300002: Roe_13
+    4300004: Roe_12
+    4300006: Roe_11
+    4300008: Roe_10
+    4300010: Roe_9
+    4300012: Roe_8
+    4300014: Roe_7
+    4300016: Roe_6
+    4300018: Roe_5
+    4300020: Roe_4
+    4300022: Roe_3
+    4300024: Roe_2
+    4300026: Roe_1
+    4300028: Roe_0
+    4300030: Nori
+    4300032: Rice
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

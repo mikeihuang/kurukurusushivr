@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: b87ae7be069594321a14e0dc9d993b03
+timeCreated: 1497230649
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ArcL
+    100002: ArcS
+    100004: Cap_1
+    100006: Cap_1_2
+    100008: Cap_1_3
+    100010: Cap_1_4
+    100012: Cap_2
+    100014: Cap_2_2
+    100016: Cap_2_3
+    100018: Cap_2_4
+    100020: CINEMA_4D_Editor
+    100022: Circle
+    100024: Extrude
+    100026: Extrude_1
+    100028: Extrude_1_2
+    100030: Extrude_2
+    100032: Extrude_2_2
+    100034: Extrude_2_3
+    100036: Extrude_3
+    100038: Extrude_3_2
+    100040: //RootNode
+    100042: Spline
+    100044: Spline_2
+    100046: Spline_3
+    100048: Spline_4
+    100050: Green01
+    100052: Green02
+    100054: Pink01
+    100056: Pink02
+    400000: ArcL
+    400002: ArcS
+    400004: Cap_1
+    400006: Cap_1_2
+    400008: Cap_1_3
+    400010: Cap_1_4
+    400012: Cap_2
+    400014: Cap_2_2
+    400016: Cap_2_3
+    400018: Cap_2_4
+    400020: CINEMA_4D_Editor
+    400022: Circle
+    400024: Extrude
+    400026: Extrude_1
+    400028: Extrude_1_2
+    400030: Extrude_2
+    400032: Extrude_2_2
+    400034: Extrude_2_3
+    400036: Extrude_3
+    400038: Extrude_3_2
+    400040: //RootNode
+    400042: Spline
+    400044: Spline_2
+    400046: Spline_3
+    400048: Spline_4
+    400050: Green01
+    400052: Green02
+    400054: Pink01
+    400056: Pink02
+    2300000: ArcL
+    2300002: ArcS
+    2300004: Cap_1
+    2300006: Cap_1_2
+    2300008: Cap_1_3
+    2300010: Cap_1_4
+    2300012: Cap_2
+    2300014: Cap_2_2
+    2300016: Cap_2_3
+    2300018: Cap_2_4
+    2300020: Circle
+    2300022: Extrude
+    2300024: Extrude_1
+    2300026: Extrude_2
+    2300028: Extrude_3
+    2300030: Green01
+    2300032: Green02
+    2300034: Pink01
+    2300036: Pink02
+    3300000: ArcL
+    3300002: ArcS
+    3300004: Cap_1
+    3300006: Cap_1_2
+    3300008: Cap_1_3
+    3300010: Cap_1_4
+    3300012: Cap_2
+    3300014: Cap_2_2
+    3300016: Cap_2_3
+    3300018: Cap_2_4
+    3300020: Circle
+    3300022: Extrude
+    3300024: Extrude_1
+    3300026: Extrude_2
+    3300028: Extrude_3
+    3300030: Green01
+    3300032: Green02
+    3300034: Pink01
+    3300036: Pink02
+    4300000: Extrude_3
+    4300002: Cap_1
+    4300004: Cap_2
+    4300006: Extrude_2
+    4300008: Cap_1_2
+    4300010: Cap_2_2
+    4300012: Extrude_1
+    4300014: Cap_1_3
+    4300016: Cap_2_3
+    4300018: Extrude
+    4300020: Cap_1_4
+    4300022: Cap_2_4
+    4300024: Circle
+    4300026: ArcS
+    4300028: ArcL
+    4300030: Green01
+    4300032: Green02
+    4300034: Pink01
+    4300036: Pink02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
